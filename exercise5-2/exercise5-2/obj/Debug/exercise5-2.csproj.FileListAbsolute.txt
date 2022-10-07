@@ -1,0 +1,11 @@
+C:\Users\18657\source\repos\exercise5-2\exercise5-2\obj\Debug\exercise5-2.csproj.AssemblyReference.cache
+C:\Users\18657\source\repos\exercise5-2\exercise5-2\obj\Debug\exercise5-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\18657\source\repos\exercise5-2\exercise5-2\obj\Debug\exercise5_2.FrmFutureValue.resources
+C:\Users\18657\source\repos\exercise5-2\exercise5-2\obj\Debug\exercise5_2.Properties.Resources.resources
+C:\Users\18657\source\repos\exercise5-2\exercise5-2\obj\Debug\exercise5-2.csproj.GenerateResource.cache
+C:\Users\18657\source\repos\exercise5-2\exercise5-2\obj\Debug\exercise5-2.csproj.CoreCompileInputs.cache
+C:\Users\18657\source\repos\exercise5-2\exercise5-2\bin\Debug\exercise5-2.exe.config
+C:\Users\18657\source\repos\exercise5-2\exercise5-2\bin\Debug\exercise5-2.exe
+C:\Users\18657\source\repos\exercise5-2\exercise5-2\bin\Debug\exercise5-2.pdb
+C:\Users\18657\source\repos\exercise5-2\exercise5-2\obj\Debug\exercise5-2.exe
+C:\Users\18657\source\repos\exercise5-2\exercise5-2\obj\Debug\exercise5-2.pdb
